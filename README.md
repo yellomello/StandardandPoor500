@@ -1,4 +1,4 @@
-# streamlit-10
+# S&P 500 Stock Prices Using Streamlit
 
 Launch the web app:
 
